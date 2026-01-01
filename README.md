@@ -22,13 +22,6 @@ Right now, I'm focusing on learning Python and the fundamentals of Machine Learn
 
 ---
 
-## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sina-fr&show_icons=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sina-fr&layout=compact)
-
----
-
 ## 🔗 Socials
 
 [Telegram](https://t.me/Sina_slw)  
