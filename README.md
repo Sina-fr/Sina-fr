@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sina 👋
 
-<!--
-**Sina-fr/Sina-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in programming and Artificial Intelligence.  
+Right now, I'm focusing on learning Python and the fundamentals of Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python  
+- Machine Learning  
+- Deep Learning  
+- NumPy  
+- Git & GitHub basics  
+- Building small practical projects
+
+---
+
+## 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sina-fr&show_icons=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sina-fr&layout=compact)
+
+---
+
+## 🔗 Socials
+
+[Telegram](https://t.me/Sina_slw)  
